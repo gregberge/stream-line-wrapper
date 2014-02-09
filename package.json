@@ -1,6 +1,6 @@
 {
   "name": "stream-line-wrapper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wrap each lines of a stream with a prefix, suffix or a custom function.",
   "main": "index.js",
   "directories": {
