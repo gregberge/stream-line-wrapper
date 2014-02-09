@@ -49,7 +49,7 @@ Use a function to wrapper each lines.
 var lineWrapper = new LineWrapper({ wrapper: countChars });
 
 /**
- * Prefix each line with char count.
+ * Prefix each lines with char count.
  *
  * @param {String} line
  * @param {Function} cb
