@@ -1,6 +1,6 @@
 {
   "name": "stream-line-wrapper",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "Wrap each lines of a stream with a prefix, suffix or a custom function.",
   "main": "index.js",
   "directories": {
@@ -28,10 +28,13 @@
   },
   "homepage": "https://github.com/neoziro/stream-line-wrapper",
   "devDependencies": {
-    "mocha": "~1.17.1",
-    "chai": "~1.9.0"
+    "chai": "~4.3.6",
+    "mocha": "~10.0.0"
   },
   "dependencies": {
-    "async": "~0.2.10"
+    "async": "^3.2.3"
+  },
+  "engines": {
+    "node": ">=14"
   }
 }
