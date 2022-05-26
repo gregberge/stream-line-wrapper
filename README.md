@@ -1,4 +1,4 @@
-# Stream line wrapper [![Build Status](https://github.com/uscreen/stream-line-wrapper/actions/workflows/node.js.yml/badge.svg)]
+# Stream line wrapper ![Build Status](https://github.com/uscreen/stream-line-wrapper/actions/workflows/node.js.yml/badge.svg)
 
 Wrap each lines of a stream with a prefix, suffix or a custom function.
 
